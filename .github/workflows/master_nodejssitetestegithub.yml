@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'nodejssitetestegithub'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D922BA095F65429E94D373192037F5E6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8E259D656FC5406EA554209143BE8420 }}
           package: .
